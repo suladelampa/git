@@ -7,4 +7,4 @@ test:
 production:
   adapter: redis
   url: redis://gitapp.9qmgdq.ng.0001.cac1.cache.amazonaws.com:6379
-  channel_prefix: git_production
+  #channel_prefix: git_production
